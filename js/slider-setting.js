@@ -1,0 +1,1 @@
+"use strict";$(".message__users").slick({infinite:!0,slidesToShow:1,slidesToScroll:1,dots:!0,arrows:!1});

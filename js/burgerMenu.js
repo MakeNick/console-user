@@ -1,0 +1,1 @@
+"use strict";var menuMobile=document.querySelector(".burgerMenu"),profile=document.querySelector(".user"),bodyBlock=document.querySelector("html");menuMobile.addEventListener("click",function(){menuMobile.classList.toggle("active_burger"),profile.classList.toggle("active_user")});
